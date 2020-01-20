@@ -1,0 +1,3 @@
+This is the third module of the Modular CNC Controller.
+It is the collant module.
+It has the Capabilitty of Controlling the flow of fluid & air in the machine
