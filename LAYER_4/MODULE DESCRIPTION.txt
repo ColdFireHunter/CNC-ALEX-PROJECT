@@ -1,0 +1,3 @@
+This is the fourth module of the Stack for the modular CNC-Controller
+It has some I/O Connectors on it.
+It has the CAN Connector on it.
