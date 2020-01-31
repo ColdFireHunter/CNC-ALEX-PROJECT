@@ -1,0 +1,6 @@
+P1 --> Probe Connector
+P2 --> Traffic Light Connector
+PS1 --> PS2 CAN Connector
+H3 --> CAN CONNECTOR FROM LAYER 3
+H1 --> PROBE CONNECTOR FROM LAYER 3
+H2 --> TRAFFIC LIGHT CONNECTOR FROM LAYER 3
