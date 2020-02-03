@@ -1,0 +1,3 @@
+This is the second module of the Modular CNC Controller.
+It is the jogging and corordination entering module.
+It has the Capability of Controlling the Movent of the machine 
