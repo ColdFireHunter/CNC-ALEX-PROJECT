@@ -1,3 +1,0 @@
-This is the first Module of the Stack for the modular CNC-Controller
-It is the Power Supply for the hole stack.
-It also has the Sockets for the Motor Drivers on it.
